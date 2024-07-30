@@ -3,6 +3,7 @@
     -fx-font-family: "Times New Roman";
     -fx-background: rgb(225, 228, 203);
     -fx-background-image: url("lab.jpg");
+    -fx-cursor: hand;
 }
 .button {
     -fx-text-fill: white;
@@ -16,4 +17,10 @@
 }
 #title{
     -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+.label{
+    -fx-text-fill: white;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+    -fx-font-size: 30pt;
 }
